@@ -1,6 +1,4 @@
 **Example of a simple web page using PHP and MySQL to encrypt the password and store it in the database.**
-Sure! Here is the translated response in English:
-
 ### 1. Creating the Database and Tables
 First, create a database and tables to store user data:
 
